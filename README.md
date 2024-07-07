@@ -25,8 +25,9 @@ DirForce consists of a single Python script (`dirforce.py`) that takes a target 
 
 1. **Clone the repository and navigate to the project directory**:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/Shashwat1218/DirForce.git
    cd <repository_directory>
+   pyhton3 DirForce.py
 
 ### [NOT FOUND]
 ![Not Found](Images/2.png)
